@@ -32,7 +32,7 @@ Here are some ideas to get you started:
      <tr>
       <th>Traits</th>
       <td style="background-color:white;color:black;">
-       People Person who loves coding, <br> Advocate of documentation, developer experience, good practices and good leadership.
+       People Person who loves coding, <br> Advocate of soft skills, documentation, productivity, good practices and good leadership.
       </td>
      </tr>
       <tr>
