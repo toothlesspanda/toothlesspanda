@@ -40,11 +40,14 @@ Here are some ideas to get you started:
        <td style="background-color:white;color:black;display:flex;justify-content:center important!;">
         <a href="https://github.com/toothlesspanda">
          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
-        <a href="[https://github.com/toothlesspanda](https://linkedin.com/in/inesdematos)" >
+        <a href="[linkedin](https://linkedin.com/in/inesdematos)" >
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a> 
-        <a href="[https://github.com/toothlesspanda](https://medium.com/@inesdematos)" >
+        <a href="[medium](https://medium.com/@inesdematos)" >
          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+        </a>
+         <a href="[devto](https://dev.to/hersoftsyntax)" >
+         <img src="https://img.shields.io/badge/Devto-12100E?style=for-the-badge&logo=devto&logoColor=white"/>
         </a>
        </td>
      </tr>
